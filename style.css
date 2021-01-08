@@ -1,0 +1,46 @@
+body {
+    font-family: din-condensed, sans-serif;
+    font-weight: 400;
+    background-image: url('images/seattlebg_.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {font-weight: 700;
+    color: #C0001C;
+
+}
+
+.logo {
+    height: 3rem;
+}
+
+#nav {
+    border-bottom: 10px solid black;
+}
+
+.faceshot {
+    width: 250px;
+}
+
+p {
+    color: black;
+    font-size: 1.5rem;
+}
+
+.box {
+    position: relative;
+    background-color: white;
+    border: 10px solid black;
+    padding: 50px;
+    margin: 20px;
+}
+
+.port {
+    width: 350px;
+}  
+
+.row {
+    padding: 5px;
+}
